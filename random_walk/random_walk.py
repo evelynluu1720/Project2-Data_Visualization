@@ -50,3 +50,4 @@ class RandomWalk:
             # if x_step and y_step are both 0 -> stay still -> continue the loop
             self.x_values.append(x)
             self.y_values.append(y)
+

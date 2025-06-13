@@ -1,6 +1,5 @@
 ## Data Visualization
 #### Brief information:
-- Chapter 15 16 and 17
 - Use Matplotlib and Plotly
 - Goal: 
     - generate data and create a series of functional visualizations
